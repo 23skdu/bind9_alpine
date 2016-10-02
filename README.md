@@ -1,2 +1,2 @@
 # bind9_alpine
-Alpine based docker container for BIND9
+Docker based on the latest Alpine and official BIND9 Alpine package
