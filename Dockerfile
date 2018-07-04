@@ -1,5 +1,5 @@
 # This container simply runs BIND
-FROM alpine:latest
+FROM alpine:3.6
 
 RUN apk --update upgrade && \
     apk add --update bind && \
